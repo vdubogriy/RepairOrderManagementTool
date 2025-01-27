@@ -1,0 +1,27 @@
+﻿
+<script src="https://code.jquery.com/jquery-3.7.1.js"></script>
+
+<a class="logout" onclick="Logout();">Выйти</a>
+<script>    
+    function Logout()
+    {
+        var currentUser = JSON.parse(localStorage.getItem("user"));
+
+        $.ajax({
+            url: ("/Login/Logout"),
+            type: "GET",
+            contentType: "application/json; charset=utf-8",
+            dataType: "json",
+            headers: { "Authorization": currentUser.token }
+        });
+
+        localStorage.removeItem("user");
+        window.location.href = "@Url.Action("Index", "Login")";
+    }
+</script>
+
+<style>
+    .logout:hover{
+            cursor: pointer;
+    }
+</style>

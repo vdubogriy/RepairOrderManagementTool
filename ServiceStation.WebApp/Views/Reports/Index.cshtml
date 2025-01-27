@@ -1,0 +1,172 @@
+﻿@using System.Text.Json
+@{
+    ViewData["Title"] = "Отчеты";
+    Layout = "_Layout";
+}
+<h1>@ViewData["Title"]</h1>
+<link rel="stylesheet" href="https://code.jquery.com/ui/1.14.1/themes/base/jquery-ui.css">
+<script src="https://code.jquery.com/jquery-3.7.1.js"></script>
+<script src="https://code.jquery.com/ui/1.14.1/jquery-ui.js"></script>
+<link rel="stylesheet" href="~/css/servicestation.css" />
+
+@model DateRangeModel
+
+<div class ="report-container">
+    <div class="title">Исполнитель:</div>
+    @Html.DropDownList("ServiceStation", new List<SelectListItem>(), new { @class = "form-control", @id = "dd-servicestation" })
+    <div class="title">Заказчик:</div>
+    @Html.DropDownList("Client", new List<SelectListItem>(), new { @class = "form-control", @id = "dd-client" })
+    <div class="title">TC:</div>
+    @Html.DropDownList("Vehicle", new List<SelectListItem>(), new { @class = "form-control", @id = "dd-vehicle" })
+    <div class="title">Период:</div>
+    <div class="datepicker-container">
+        @Html.TextBoxFor(model => model.DateFrom, Model.DateFrom.ToShortDateString(), new { @class = "form-control", @id = "datepicker-from", @readonly = "readonly" })
+        @Html.TextBoxFor(model => model.DateTo, Model.DateTo.ToShortDateString(), new { @class = "form-control", @id = "datepicker-to", @readonly = "readonly" })
+    </div>
+    <div style="clear: both;"</div>
+    <div class="button-container">
+        <button type="button" class="btn btn-primary btn-block mb-4" onclick="GenerateReport()">Сформировать отчет</button>
+        <div class="report-result-container">            
+            <div id="total"></div>
+            <div id="sum"></div>            
+            <div id="mileage"></div>
+        </div>
+    </div>
+</div>
+<script>
+    var currentUser = JSON.parse(localStorage.getItem("user"));
+    
+    if (currentUser == null)
+        window.location.href = "@Url.Action("Index", "Login")";
+
+    $(document).ready(function () {        
+
+        $.ajax({
+            url: ("/Login/ValidateUser"),
+            type: "GET",
+            contentType: "application/json; charset=utf-8",
+            dataType: "json",
+            headers: { "Authorization": currentUser.token },
+            success: function (user) {
+                if (user == null || !user.isAuthenticated) {
+                    window.location.href = "@Url.Action("Index", "Login")";
+                }
+                else { 
+                    GetServiceStations();
+                }
+            },
+        });
+
+        $('#datepicker-from').datepicker({ dateFormat: 'dd.mm.yy' });
+        $('#datepicker-to').datepicker({ dateFormat: 'dd.mm.yy' });   
+        
+        $('#dd-servicestation').change(function () {
+            var serviceStationId = $("#dd-servicestation").val();
+            GetClients(serviceStationId);
+            ClearResult();
+        })
+
+        $('#dd-client').change(function () {
+            var clientId = $("#dd-client").val();
+            GetVehicles(clientId);
+            ClearResult();
+        })
+
+        $('#dd-vehicle').change(function () {
+            ClearResult();
+        })
+    });
+
+    function GetServiceStations() {
+        var serviceStationId = currentUser.serviceStationId;
+
+        $.ajax({
+            url: ("/Reports/GetServiceStations?serviceStationId=" + serviceStationId),
+            type: "GET",
+            contentType: "application/json; charset=utf-8",
+            dataType: "json",
+            headers: { "Authorization": currentUser.token },
+            success: function (response) {
+                $.each(response, function (index, itemData) {
+                    $("#dd-servicestation").append($('<option></option>').text(itemData.text).val(itemData.value));
+                });
+
+                GetClients(currentUser.serviceStationId);
+            },
+        });
+    }
+
+    function GetClients(serviceStationId) {
+        $("#dd-client").empty();
+
+        $.ajax({
+            url: ("/Reports/GetClients?serviceStationId=" + serviceStationId),
+            type: "GET",
+            contentType: "application/json; charset=utf-8",
+            dataType: "json",
+            headers: { "Authorization": currentUser.token },
+            success: function (response) {
+                $.each(response, function (index, itemData) {
+                    $("#dd-client").append($('<option></option>').text(itemData.text).val(itemData.value));
+                });
+
+                GetVehicles();
+            },
+        });
+    }
+
+    function GetVehicles(clientId) {
+        $("#dd-vehicle").empty();
+
+        $.ajax({
+            url: ("/Reports/GetVehicles?clientId=" + clientId),
+            type: "GET",
+            contentType: "application/json; charset=utf-8",
+            dataType: "json",
+            headers: { "Authorization": currentUser.token },
+            success: function (response) {
+                $.each(response, function (index, itemData) {
+                    $("#dd-vehicle").append($('<option></option>').text(itemData.text).val(itemData.value));
+                });
+            },
+        });
+    }
+
+    function GenerateReport() {        
+        var requetsModel = {
+            DateFrom: $('#datepicker-from').datepicker('getDate'),
+            DateTo: $('#datepicker-to').datepicker('getDate')
+        };
+
+        if ($("#dd-servicestation").val() != "0")
+            requetsModel.ServiceStationId = $("#dd-servicestation").val();
+
+        if ($("#dd-client").val() != "0")
+            requetsModel.ClientId = $("#dd-client").val()
+
+        if ($("#dd-vehicle").val() != "0")
+            requetsModel.VehicleId = $("#dd-vehicle").val()
+
+        $.ajax({
+            url: ("/Reports/ReportResult"),
+            type: "POST",
+            contentType: "application/json; charset=utf-8",
+            dataType: "json",
+            headers: { "Authorization": currentUser.token },
+            data: JSON.stringify(requetsModel),
+            success: function (response) {
+                $('#total').text("Кол-во: " + response.total);
+                $('#sum').text("Сумма: " + response.sum);
+                
+                if (response.mileage != null)
+                    $('#mileage').text("Пробег: " + response.mileage);
+            },
+        });       
+    };
+
+    function ClearResult() {
+        $('#total').empty();
+        $('#sum').empty();
+        $('#mileage').empty();
+    }
+</script>

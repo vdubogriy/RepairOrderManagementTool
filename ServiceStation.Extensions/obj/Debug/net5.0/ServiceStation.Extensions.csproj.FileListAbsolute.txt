@@ -1,0 +1,38 @@
+C:\Users\Vasily Dubogriy\source\repos\ServiceStation.API\ServiceStation.Extensions\bin\Debug\net5.0\ServiceStation.Extensions.deps.json
+C:\Users\Vasily Dubogriy\source\repos\ServiceStation.API\ServiceStation.Extensions\bin\Debug\net5.0\ServiceStation.Extensions.dll
+C:\Users\Vasily Dubogriy\source\repos\ServiceStation.API\ServiceStation.Extensions\bin\Debug\net5.0\ServiceStation.Extensions.pdb
+C:\Users\Vasily Dubogriy\source\repos\ServiceStation.API\ServiceStation.Extensions\bin\Debug\net5.0\ServiceStation.AuthExtensions.dll
+C:\Users\Vasily Dubogriy\source\repos\ServiceStation.API\ServiceStation.Extensions\bin\Debug\net5.0\ServiceStation.DatabaseModels.dll
+C:\Users\Vasily Dubogriy\source\repos\ServiceStation.API\ServiceStation.Extensions\bin\Debug\net5.0\ServiceStation.DTO.dll
+C:\Users\Vasily Dubogriy\source\repos\ServiceStation.API\ServiceStation.Extensions\bin\Debug\net5.0\ServiceStation.DatabaseModels.pdb
+C:\Users\Vasily Dubogriy\source\repos\ServiceStation.API\ServiceStation.Extensions\bin\Debug\net5.0\ServiceStation.DTO.pdb
+C:\Users\Vasily Dubogriy\source\repos\ServiceStation.API\ServiceStation.Extensions\bin\Debug\net5.0\ServiceStation.AuthExtensions.pdb
+C:\Users\Vasily Dubogriy\source\repos\ServiceStation.API\ServiceStation.Extensions\obj\Debug\net5.0\ServiceStation.Extensions.csproj.AssemblyReference.cache
+C:\Users\Vasily Dubogriy\source\repos\ServiceStation.API\ServiceStation.Extensions\obj\Debug\net5.0\ServiceStation.Extensions.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Vasily Dubogriy\source\repos\ServiceStation.API\ServiceStation.Extensions\obj\Debug\net5.0\ServiceStation.Extensions.AssemblyInfoInputs.cache
+C:\Users\Vasily Dubogriy\source\repos\ServiceStation.API\ServiceStation.Extensions\obj\Debug\net5.0\ServiceStation.Extensions.AssemblyInfo.cs
+C:\Users\Vasily Dubogriy\source\repos\ServiceStation.API\ServiceStation.Extensions\obj\Debug\net5.0\ServiceStation.Extensions.csproj.CoreCompileInputs.cache
+C:\Users\Vasily Dubogriy\source\repos\ServiceStation.API\ServiceStation.Extensions\obj\Debug\net5.0\ServiceS.CE3AF587.Up2Date
+C:\Users\Vasily Dubogriy\source\repos\ServiceStation.API\ServiceStation.Extensions\obj\Debug\net5.0\ServiceStation.Extensions.dll
+C:\Users\Vasily Dubogriy\source\repos\ServiceStation.API\ServiceStation.Extensions\obj\Debug\net5.0\refint\ServiceStation.Extensions.dll
+C:\Users\Vasily Dubogriy\source\repos\ServiceStation.API\ServiceStation.Extensions\obj\Debug\net5.0\ServiceStation.Extensions.pdb
+C:\Users\Vasily Dubogriy\source\repos\ServiceStation.API\ServiceStation.Extensions\obj\Debug\net5.0\ref\ServiceStation.Extensions.dll
+C:\Users\vasil\Desktop\ServiceStation.API\ServiceStation.API\ServiceStation.Extensions\bin\Debug\net5.0\ServiceStation.Extensions.deps.json
+C:\Users\vasil\Desktop\ServiceStation.API\ServiceStation.API\ServiceStation.Extensions\bin\Debug\net5.0\ServiceStation.Extensions.dll
+C:\Users\vasil\Desktop\ServiceStation.API\ServiceStation.API\ServiceStation.Extensions\bin\Debug\net5.0\ServiceStation.Extensions.pdb
+C:\Users\vasil\Desktop\ServiceStation.API\ServiceStation.API\ServiceStation.Extensions\bin\Debug\net5.0\ServiceStation.AuthExtensions.dll
+C:\Users\vasil\Desktop\ServiceStation.API\ServiceStation.API\ServiceStation.Extensions\bin\Debug\net5.0\ServiceStation.DatabaseModels.dll
+C:\Users\vasil\Desktop\ServiceStation.API\ServiceStation.API\ServiceStation.Extensions\bin\Debug\net5.0\ServiceStation.DTO.dll
+C:\Users\vasil\Desktop\ServiceStation.API\ServiceStation.API\ServiceStation.Extensions\bin\Debug\net5.0\ServiceStation.DatabaseModels.pdb
+C:\Users\vasil\Desktop\ServiceStation.API\ServiceStation.API\ServiceStation.Extensions\bin\Debug\net5.0\ServiceStation.DTO.pdb
+C:\Users\vasil\Desktop\ServiceStation.API\ServiceStation.API\ServiceStation.Extensions\bin\Debug\net5.0\ServiceStation.AuthExtensions.pdb
+C:\Users\vasil\Desktop\ServiceStation.API\ServiceStation.API\ServiceStation.Extensions\obj\Debug\net5.0\ServiceStation.Extensions.csproj.AssemblyReference.cache
+C:\Users\vasil\Desktop\ServiceStation.API\ServiceStation.API\ServiceStation.Extensions\obj\Debug\net5.0\ServiceStation.Extensions.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vasil\Desktop\ServiceStation.API\ServiceStation.API\ServiceStation.Extensions\obj\Debug\net5.0\ServiceStation.Extensions.AssemblyInfoInputs.cache
+C:\Users\vasil\Desktop\ServiceStation.API\ServiceStation.API\ServiceStation.Extensions\obj\Debug\net5.0\ServiceStation.Extensions.AssemblyInfo.cs
+C:\Users\vasil\Desktop\ServiceStation.API\ServiceStation.API\ServiceStation.Extensions\obj\Debug\net5.0\ServiceStation.Extensions.csproj.CoreCompileInputs.cache
+C:\Users\vasil\Desktop\ServiceStation.API\ServiceStation.API\ServiceStation.Extensions\obj\Debug\net5.0\ServiceStation.Extensions.csproj.CopyComplete
+C:\Users\vasil\Desktop\ServiceStation.API\ServiceStation.API\ServiceStation.Extensions\obj\Debug\net5.0\ServiceStation.Extensions.dll
+C:\Users\vasil\Desktop\ServiceStation.API\ServiceStation.API\ServiceStation.Extensions\obj\Debug\net5.0\refint\ServiceStation.Extensions.dll
+C:\Users\vasil\Desktop\ServiceStation.API\ServiceStation.API\ServiceStation.Extensions\obj\Debug\net5.0\ServiceStation.Extensions.pdb
+C:\Users\vasil\Desktop\ServiceStation.API\ServiceStation.API\ServiceStation.Extensions\obj\Debug\net5.0\ref\ServiceStation.Extensions.dll

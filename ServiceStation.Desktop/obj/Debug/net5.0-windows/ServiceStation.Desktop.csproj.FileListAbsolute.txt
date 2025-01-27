@@ -1,0 +1,66 @@
+C:\Users\Vasily Dubogriy\source\repos\ServiceStation.API\ServiceStation.Desktop\bin\Debug\net5.0-windows\ServiceStation.Desktop.exe
+C:\Users\Vasily Dubogriy\source\repos\ServiceStation.API\ServiceStation.Desktop\bin\Debug\net5.0-windows\ServiceStation.Desktop.deps.json
+C:\Users\Vasily Dubogriy\source\repos\ServiceStation.API\ServiceStation.Desktop\bin\Debug\net5.0-windows\ServiceStation.Desktop.runtimeconfig.json
+C:\Users\Vasily Dubogriy\source\repos\ServiceStation.API\ServiceStation.Desktop\bin\Debug\net5.0-windows\ServiceStation.Desktop.runtimeconfig.dev.json
+C:\Users\Vasily Dubogriy\source\repos\ServiceStation.API\ServiceStation.Desktop\bin\Debug\net5.0-windows\ServiceStation.Desktop.dll
+C:\Users\Vasily Dubogriy\source\repos\ServiceStation.API\ServiceStation.Desktop\bin\Debug\net5.0-windows\ServiceStation.Desktop.pdb
+C:\Users\Vasily Dubogriy\source\repos\ServiceStation.API\ServiceStation.Desktop\bin\Debug\net5.0-windows\Newtonsoft.Json.dll
+C:\Users\Vasily Dubogriy\source\repos\ServiceStation.API\ServiceStation.Desktop\bin\Debug\net5.0-windows\RestSharp.dll
+C:\Users\Vasily Dubogriy\source\repos\ServiceStation.API\ServiceStation.Desktop\bin\Debug\net5.0-windows\ServiceStation.ApiRequestProvider.dll
+C:\Users\Vasily Dubogriy\source\repos\ServiceStation.API\ServiceStation.Desktop\bin\Debug\net5.0-windows\ServiceStation.DTO.dll
+C:\Users\Vasily Dubogriy\source\repos\ServiceStation.API\ServiceStation.Desktop\bin\Debug\net5.0-windows\ServiceStation.ApiRequestProvider.pdb
+C:\Users\Vasily Dubogriy\source\repos\ServiceStation.API\ServiceStation.Desktop\bin\Debug\net5.0-windows\ServiceStation.DTO.pdb
+C:\Users\Vasily Dubogriy\source\repos\ServiceStation.API\ServiceStation.Desktop\obj\Debug\net5.0-windows\ServiceStation.Desktop.csproj.AssemblyReference.cache
+C:\Users\Vasily Dubogriy\source\repos\ServiceStation.API\ServiceStation.Desktop\obj\Debug\net5.0-windows\ServiceStation.Desktop.FrmCreateClient.resources
+C:\Users\Vasily Dubogriy\source\repos\ServiceStation.API\ServiceStation.Desktop\obj\Debug\net5.0-windows\ServiceStation.Desktop.FrmCreateRepairOrder.resources
+C:\Users\Vasily Dubogriy\source\repos\ServiceStation.API\ServiceStation.Desktop\obj\Debug\net5.0-windows\ServiceStation.Desktop.FrmCreateVehicle.resources
+C:\Users\Vasily Dubogriy\source\repos\ServiceStation.API\ServiceStation.Desktop\obj\Debug\net5.0-windows\ServiceStation.Desktop.FrmMain.resources
+C:\Users\Vasily Dubogriy\source\repos\ServiceStation.API\ServiceStation.Desktop\obj\Debug\net5.0-windows\ServiceStation.Desktop.FrmStart.resources
+C:\Users\Vasily Dubogriy\source\repos\ServiceStation.API\ServiceStation.Desktop\obj\Debug\net5.0-windows\ServiceStation.Desktop.Properties.Resources.resources
+C:\Users\Vasily Dubogriy\source\repos\ServiceStation.API\ServiceStation.Desktop\obj\Debug\net5.0-windows\ServiceStation.Desktop.csproj.GenerateResource.cache
+C:\Users\Vasily Dubogriy\source\repos\ServiceStation.API\ServiceStation.Desktop\obj\Debug\net5.0-windows\ServiceStation.Desktop.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Vasily Dubogriy\source\repos\ServiceStation.API\ServiceStation.Desktop\obj\Debug\net5.0-windows\ServiceStation.Desktop.AssemblyInfoInputs.cache
+C:\Users\Vasily Dubogriy\source\repos\ServiceStation.API\ServiceStation.Desktop\obj\Debug\net5.0-windows\ServiceStation.Desktop.AssemblyInfo.cs
+C:\Users\Vasily Dubogriy\source\repos\ServiceStation.API\ServiceStation.Desktop\obj\Debug\net5.0-windows\ServiceStation.Desktop.csproj.CoreCompileInputs.cache
+C:\Users\Vasily Dubogriy\source\repos\ServiceStation.API\ServiceStation.Desktop\obj\Debug\net5.0-windows\ServiceS.97D1FFB4.Up2Date
+C:\Users\Vasily Dubogriy\source\repos\ServiceStation.API\ServiceStation.Desktop\obj\Debug\net5.0-windows\ServiceStation.Desktop.dll
+C:\Users\Vasily Dubogriy\source\repos\ServiceStation.API\ServiceStation.Desktop\obj\Debug\net5.0-windows\refint\ServiceStation.Desktop.dll
+C:\Users\Vasily Dubogriy\source\repos\ServiceStation.API\ServiceStation.Desktop\obj\Debug\net5.0-windows\ServiceStation.Desktop.pdb
+C:\Users\Vasily Dubogriy\source\repos\ServiceStation.API\ServiceStation.Desktop\obj\Debug\net5.0-windows\ServiceStation.Desktop.genruntimeconfig.cache
+C:\Users\Vasily Dubogriy\source\repos\ServiceStation.API\ServiceStation.Desktop\obj\Debug\net5.0-windows\ref\ServiceStation.Desktop.dll
+C:\Users\Vasily Dubogriy\source\repos\ServiceStation.API\ServiceStation.Desktop\bin\Debug\net5.0-windows\BCrypt.Net-Core.dll
+C:\Users\Vasily Dubogriy\source\repos\ServiceStation.API\ServiceStation.Desktop\bin\Debug\net5.0-windows\ServiceStation.AuthExtensions.dll
+C:\Users\Vasily Dubogriy\source\repos\ServiceStation.API\ServiceStation.Desktop\bin\Debug\net5.0-windows\ServiceStation.AuthExtensions.pdb
+C:\Users\vasil\Desktop\ServiceStation.API\ServiceStation.API\ServiceStation.Desktop\bin\Debug\net5.0-windows\ServiceStation.Desktop.exe
+C:\Users\vasil\Desktop\ServiceStation.API\ServiceStation.API\ServiceStation.Desktop\bin\Debug\net5.0-windows\ServiceStation.Desktop.deps.json
+C:\Users\vasil\Desktop\ServiceStation.API\ServiceStation.API\ServiceStation.Desktop\bin\Debug\net5.0-windows\ServiceStation.Desktop.runtimeconfig.json
+C:\Users\vasil\Desktop\ServiceStation.API\ServiceStation.API\ServiceStation.Desktop\bin\Debug\net5.0-windows\ServiceStation.Desktop.runtimeconfig.dev.json
+C:\Users\vasil\Desktop\ServiceStation.API\ServiceStation.API\ServiceStation.Desktop\bin\Debug\net5.0-windows\ServiceStation.Desktop.dll
+C:\Users\vasil\Desktop\ServiceStation.API\ServiceStation.API\ServiceStation.Desktop\bin\Debug\net5.0-windows\ServiceStation.Desktop.pdb
+C:\Users\vasil\Desktop\ServiceStation.API\ServiceStation.API\ServiceStation.Desktop\bin\Debug\net5.0-windows\BCrypt.Net-Core.dll
+C:\Users\vasil\Desktop\ServiceStation.API\ServiceStation.API\ServiceStation.Desktop\bin\Debug\net5.0-windows\Newtonsoft.Json.dll
+C:\Users\vasil\Desktop\ServiceStation.API\ServiceStation.API\ServiceStation.Desktop\bin\Debug\net5.0-windows\RestSharp.dll
+C:\Users\vasil\Desktop\ServiceStation.API\ServiceStation.API\ServiceStation.Desktop\bin\Debug\net5.0-windows\ServiceStation.ApiRequestProvider.dll
+C:\Users\vasil\Desktop\ServiceStation.API\ServiceStation.API\ServiceStation.Desktop\bin\Debug\net5.0-windows\ServiceStation.AuthExtensions.dll
+C:\Users\vasil\Desktop\ServiceStation.API\ServiceStation.API\ServiceStation.Desktop\bin\Debug\net5.0-windows\ServiceStation.DTO.dll
+C:\Users\vasil\Desktop\ServiceStation.API\ServiceStation.API\ServiceStation.Desktop\bin\Debug\net5.0-windows\ServiceStation.ApiRequestProvider.pdb
+C:\Users\vasil\Desktop\ServiceStation.API\ServiceStation.API\ServiceStation.Desktop\bin\Debug\net5.0-windows\ServiceStation.DTO.pdb
+C:\Users\vasil\Desktop\ServiceStation.API\ServiceStation.API\ServiceStation.Desktop\bin\Debug\net5.0-windows\ServiceStation.AuthExtensions.pdb
+C:\Users\vasil\Desktop\ServiceStation.API\ServiceStation.API\ServiceStation.Desktop\obj\Debug\net5.0-windows\ServiceStation.Desktop.csproj.AssemblyReference.cache
+C:\Users\vasil\Desktop\ServiceStation.API\ServiceStation.API\ServiceStation.Desktop\obj\Debug\net5.0-windows\ServiceStation.Desktop.FrmCreateClient.resources
+C:\Users\vasil\Desktop\ServiceStation.API\ServiceStation.API\ServiceStation.Desktop\obj\Debug\net5.0-windows\ServiceStation.Desktop.FrmCreateRepairOrder.resources
+C:\Users\vasil\Desktop\ServiceStation.API\ServiceStation.API\ServiceStation.Desktop\obj\Debug\net5.0-windows\ServiceStation.Desktop.FrmCreateVehicle.resources
+C:\Users\vasil\Desktop\ServiceStation.API\ServiceStation.API\ServiceStation.Desktop\obj\Debug\net5.0-windows\ServiceStation.Desktop.FrmMain.resources
+C:\Users\vasil\Desktop\ServiceStation.API\ServiceStation.API\ServiceStation.Desktop\obj\Debug\net5.0-windows\ServiceStation.Desktop.FrmStart.resources
+C:\Users\vasil\Desktop\ServiceStation.API\ServiceStation.API\ServiceStation.Desktop\obj\Debug\net5.0-windows\ServiceStation.Desktop.Properties.Resources.resources
+C:\Users\vasil\Desktop\ServiceStation.API\ServiceStation.API\ServiceStation.Desktop\obj\Debug\net5.0-windows\ServiceStation.Desktop.csproj.GenerateResource.cache
+C:\Users\vasil\Desktop\ServiceStation.API\ServiceStation.API\ServiceStation.Desktop\obj\Debug\net5.0-windows\ServiceStation.Desktop.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vasil\Desktop\ServiceStation.API\ServiceStation.API\ServiceStation.Desktop\obj\Debug\net5.0-windows\ServiceStation.Desktop.AssemblyInfoInputs.cache
+C:\Users\vasil\Desktop\ServiceStation.API\ServiceStation.API\ServiceStation.Desktop\obj\Debug\net5.0-windows\ServiceStation.Desktop.AssemblyInfo.cs
+C:\Users\vasil\Desktop\ServiceStation.API\ServiceStation.API\ServiceStation.Desktop\obj\Debug\net5.0-windows\ServiceStation.Desktop.csproj.CoreCompileInputs.cache
+C:\Users\vasil\Desktop\ServiceStation.API\ServiceStation.API\ServiceStation.Desktop\obj\Debug\net5.0-windows\ServiceStation.Desktop.csproj.CopyComplete
+C:\Users\vasil\Desktop\ServiceStation.API\ServiceStation.API\ServiceStation.Desktop\obj\Debug\net5.0-windows\ServiceStation.Desktop.dll
+C:\Users\vasil\Desktop\ServiceStation.API\ServiceStation.API\ServiceStation.Desktop\obj\Debug\net5.0-windows\refint\ServiceStation.Desktop.dll
+C:\Users\vasil\Desktop\ServiceStation.API\ServiceStation.API\ServiceStation.Desktop\obj\Debug\net5.0-windows\ServiceStation.Desktop.pdb
+C:\Users\vasil\Desktop\ServiceStation.API\ServiceStation.API\ServiceStation.Desktop\obj\Debug\net5.0-windows\ServiceStation.Desktop.genruntimeconfig.cache
+C:\Users\vasil\Desktop\ServiceStation.API\ServiceStation.API\ServiceStation.Desktop\obj\Debug\net5.0-windows\ref\ServiceStation.Desktop.dll

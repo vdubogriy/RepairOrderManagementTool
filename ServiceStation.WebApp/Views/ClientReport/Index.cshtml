@@ -1,0 +1,73 @@
+﻿<script src="https://code.jquery.com/jquery-3.7.1.js"></script>
+<script src="https://code.jquery.com/ui/1.14.1/jquery-ui.js"></script>
+<link rel="stylesheet" href="https://code.jquery.com/ui/1.14.1/themes/base/jquery-ui.css">
+<link rel="stylesheet" href="~/lib/bootstrap/dist/css/bootstrap.min.css" />
+<link rel="stylesheet" href="~/css/servicestation.css" />
+
+@model DateRangeModel
+
+<div class="client-report-container">
+    @Html.Label(null, null, new { @class = "error-message" })
+    <div class="label">@Html.Label("ИНН:")</div>
+    <div class="textbox">@Html.TextBox("TaxNumber", null, new { @class = "form-control", @id = "tax" })</div>
+    <div class="label">@Html.Label("Гос номер:")</div>
+    <div class="textbox">@Html.TextBox("LicensePlateNumber", null, new { @class = "form-control", @id = "license" })</div>
+    <div class="label">@Html.Label("Период:")</div>
+    <div class="datepicker-container">
+        @Html.TextBoxFor(model => model.DateFrom, Model.DateFrom.ToShortDateString(), new { @class = "form-control", @id = "datepicker-from", @readonly = "readonly" })
+        @Html.TextBoxFor(model => model.DateTo, Model.DateTo.ToShortDateString(), new { @class = "form-control", @id = "datepicker-to", @readonly = "readonly" })
+    </div>
+    <div style="clear: both;"</div>
+    <div class="button-container">
+        <button type="button" class="btn btn-primary btn-block mb-4" onclick="GenerateReport()">Сформировать отчет</button>
+        <div class="report-result-container">
+            <div id="client"></div>
+            <div id="vehicle"></div>
+            <div id="total"></div>
+            <div id="sum"></div>
+            <div id="mileage"></div>
+        </div>
+    </div>
+</div>
+
+<script>
+    $(document).ready(function () {
+        $('#datepicker-from').datepicker({ dateFormat: 'dd.mm.yy' });
+        $('#datepicker-to').datepicker({ dateFormat: 'dd.mm.yy' });
+    });
+    function GenerateReport() {
+        var requetsModel = {
+            DateFrom: $('#datepicker-from').datepicker('getDate'),
+            DateTo: $('#datepicker-to').datepicker('getDate'),
+            TaxNumber: $("#tax").val(),
+            LicensePlateNumber: $("#license").val()
+        };        
+
+        $.ajax({
+            url: ("/ClientReport/ReportResult"),
+            type: "POST",
+            contentType: "application/json; charset=utf-8",
+            dataType: "json",
+            data: JSON.stringify(requetsModel),
+            success: function (response) {
+                if (response == null) {
+                    $('.error-message').text("ТС не найдено");
+                    $('#client').empty();
+                    $('#vehicle').empty();
+                    $('#total').empty();
+                    $('#sum').empty();
+                    $('#mileage').empty();
+                }
+                else {
+                    $('.error-message').empty();
+
+                    $('#client').text("Заказчик: " + response.client.name);
+                    $('#vehicle').text("ТС: " + response.vehicle.brandModel);
+                    $('#total').text("Кол-во: " + response.total);
+                    $('#sum').text("Сумма: " + response.sum);                        
+                    $('#mileage').text("Пробег: " + response.mileage);
+                }                
+            }
+        });        
+    }
+</script>

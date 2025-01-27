@@ -1,0 +1,13 @@
+﻿<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>net5.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\ServiceStation.ApiRequestProvider\ServiceStation.ApiRequestProvider.csproj" />
+    <ProjectReference Include="..\ServiceStation.AuthExtensions\ServiceStation.AuthExtensions.csproj" />
+    <ProjectReference Include="..\ServiceStation.DTO\ServiceStation.DTO.csproj" />
+  </ItemGroup>
+
+</Project>

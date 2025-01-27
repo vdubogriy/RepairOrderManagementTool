@@ -1,0 +1,45 @@
+﻿.login-container, .client-report-container {
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    position: fixed;
+}
+
+.btn-login, .label {
+    padding-top: 10px;
+    width: 300px;
+}
+
+.error-message {
+    color: red;
+}
+
+.title {
+    padding-top: 10px;
+}
+
+.report-container, .client-report-container {
+    width: 500px;
+}
+
+.report-result-container {
+    padding-top: 10px;
+}
+
+.button-container {
+    padding-top: 10px;
+}
+
+#datepicker-from {
+    width: 240px;
+    float: left;
+}
+
+#datepicker-to {
+    width: 240px;
+    float: right;
+}
+
+#dd-servicestation, #dd-client, #dd-vehicle {
+    width: 100%;
+}

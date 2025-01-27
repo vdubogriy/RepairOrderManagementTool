@@ -1,0 +1,78 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "ServiceStation.Extensions/1.0.0": {
+        "dependencies": {
+          "ServiceStation.DTO": "1.0.0",
+          "ServiceStation.DatabaseModels": "1.0.0"
+        },
+        "runtime": {
+          "ServiceStation.Extensions.dll": {}
+        }
+      },
+      "BCrypt.Net-Core/1.6.0": {
+        "runtime": {
+          "lib/netstandard2.0/BCrypt.Net-Core.dll": {
+            "assemblyVersion": "1.6.0.0",
+            "fileVersion": "1.6.0.0"
+          }
+        }
+      },
+      "ServiceStation.AuthExtensions/1.0.0": {
+        "dependencies": {
+          "BCrypt.Net-Core": "1.6.0"
+        },
+        "runtime": {
+          "ServiceStation.AuthExtensions.dll": {}
+        }
+      },
+      "ServiceStation.DatabaseModels/1.0.0": {
+        "runtime": {
+          "ServiceStation.DatabaseModels.dll": {}
+        }
+      },
+      "ServiceStation.DTO/1.0.0": {
+        "dependencies": {
+          "ServiceStation.AuthExtensions": "1.0.0"
+        },
+        "runtime": {
+          "ServiceStation.DTO.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ServiceStation.Extensions/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "BCrypt.Net-Core/1.6.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-hsKiHGjrnlDW05MzuzzlD9gNP8YOW2KbZ+FbvISrilsKJJ76tXKhWey6psZX5sd7DczNpSU2U6ldjPoblk8BLw==",
+      "path": "bcrypt.net-core/1.6.0",
+      "hashPath": "bcrypt.net-core.1.6.0.nupkg.sha512"
+    },
+    "ServiceStation.AuthExtensions/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "ServiceStation.DatabaseModels/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "ServiceStation.DTO/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

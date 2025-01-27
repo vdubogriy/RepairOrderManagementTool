@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "R3a0lDNLAc5QSwII9csi7dXE1Z1mIPvlY1YvEuLnlM9kkqzFfN9ojd1hL/+wTig723UtDvFKEHNPorQtZPC+NA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\vasil\\Desktop\\ServiceStation.API\\ServiceStation.API\\ServiceStation.Extensions\\ServiceStation.Extensions.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\vasil\\.nuget\\packages\\bcrypt.net-core\\1.6.0\\bcrypt.net-core.1.6.0.nupkg.sha512",
+    "C:\\Users\\vasil\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\5.0.0\\microsoft.windowsdesktop.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\vasil\\.nuget\\packages\\microsoft.netcore.app.ref\\5.0.0\\microsoft.netcore.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\vasil\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\5.0.0\\microsoft.aspnetcore.app.ref.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

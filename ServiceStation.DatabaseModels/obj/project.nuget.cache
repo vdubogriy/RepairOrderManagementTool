@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "ldTrYnCYTF/HU7aaCo5EvSiPZJSrCvgbBPkwOmSxae1X0SK1z7sTcVJnmWTW0xMv6ZizF+W6aCzLKwtNdsYvKw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\vasil\\Desktop\\ServiceStation.API\\ServiceStation.API\\ServiceStation.DatabaseModels\\ServiceStation.DatabaseModels.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\vasil\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\5.0.0\\microsoft.windowsdesktop.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\vasil\\.nuget\\packages\\microsoft.netcore.app.ref\\5.0.0\\microsoft.netcore.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\vasil\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\5.0.0\\microsoft.aspnetcore.app.ref.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

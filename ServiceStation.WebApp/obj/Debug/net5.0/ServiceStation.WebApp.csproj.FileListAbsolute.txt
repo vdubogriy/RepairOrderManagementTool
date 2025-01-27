@@ -1,0 +1,112 @@
+C:\Users\Vasily Dubogriy\source\repos\ServiceStation.API\ServiceStation.WebApp\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\Vasily Dubogriy\source\repos\ServiceStation.API\ServiceStation.WebApp\bin\Debug\net5.0\appsettings.json
+C:\Users\Vasily Dubogriy\source\repos\ServiceStation.API\ServiceStation.WebApp\bin\Debug\net5.0\ServiceStation.WebApp.exe
+C:\Users\Vasily Dubogriy\source\repos\ServiceStation.API\ServiceStation.WebApp\bin\Debug\net5.0\ServiceStation.WebApp.deps.json
+C:\Users\Vasily Dubogriy\source\repos\ServiceStation.API\ServiceStation.WebApp\bin\Debug\net5.0\ServiceStation.WebApp.runtimeconfig.json
+C:\Users\Vasily Dubogriy\source\repos\ServiceStation.API\ServiceStation.WebApp\bin\Debug\net5.0\ServiceStation.WebApp.runtimeconfig.dev.json
+C:\Users\Vasily Dubogriy\source\repos\ServiceStation.API\ServiceStation.WebApp\bin\Debug\net5.0\ServiceStation.WebApp.dll
+C:\Users\Vasily Dubogriy\source\repos\ServiceStation.API\ServiceStation.WebApp\bin\Debug\net5.0\ServiceStation.WebApp.pdb
+C:\Users\Vasily Dubogriy\source\repos\ServiceStation.API\ServiceStation.WebApp\bin\Debug\net5.0\ServiceStation.WebApp.Views.dll
+C:\Users\Vasily Dubogriy\source\repos\ServiceStation.API\ServiceStation.WebApp\bin\Debug\net5.0\ServiceStation.WebApp.Views.pdb
+C:\Users\Vasily Dubogriy\source\repos\ServiceStation.API\ServiceStation.WebApp\obj\Debug\net5.0\ServiceStation.WebApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Vasily Dubogriy\source\repos\ServiceStation.API\ServiceStation.WebApp\obj\Debug\net5.0\ServiceStation.WebApp.AssemblyInfoInputs.cache
+C:\Users\Vasily Dubogriy\source\repos\ServiceStation.API\ServiceStation.WebApp\obj\Debug\net5.0\ServiceStation.WebApp.AssemblyInfo.cs
+C:\Users\Vasily Dubogriy\source\repos\ServiceStation.API\ServiceStation.WebApp\obj\Debug\net5.0\ServiceStation.WebApp.csproj.CoreCompileInputs.cache
+C:\Users\Vasily Dubogriy\source\repos\ServiceStation.API\ServiceStation.WebApp\obj\Debug\net5.0\ServiceStation.WebApp.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Vasily Dubogriy\source\repos\ServiceStation.API\ServiceStation.WebApp\obj\Debug\net5.0\ServiceStation.WebApp.RazorAssemblyInfo.cache
+C:\Users\Vasily Dubogriy\source\repos\ServiceStation.API\ServiceStation.WebApp\obj\Debug\net5.0\ServiceStation.WebApp.RazorAssemblyInfo.cs
+C:\Users\Vasily Dubogriy\source\repos\ServiceStation.API\ServiceStation.WebApp\obj\Debug\net5.0\ServiceStation.WebApp.TagHelpers.input.cache
+C:\Users\Vasily Dubogriy\source\repos\ServiceStation.API\ServiceStation.WebApp\obj\Debug\net5.0\ServiceStation.WebApp.TagHelpers.output.cache
+C:\Users\Vasily Dubogriy\source\repos\ServiceStation.API\ServiceStation.WebApp\obj\Debug\net5.0\ServiceStation.WebApp.RazorCoreGenerate.cache
+C:\Users\Vasily Dubogriy\source\repos\ServiceStation.API\ServiceStation.WebApp\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\Vasily Dubogriy\source\repos\ServiceStation.API\ServiceStation.WebApp\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\Vasily Dubogriy\source\repos\ServiceStation.API\ServiceStation.WebApp\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\Vasily Dubogriy\source\repos\ServiceStation.API\ServiceStation.WebApp\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\Vasily Dubogriy\source\repos\ServiceStation.API\ServiceStation.WebApp\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\Vasily Dubogriy\source\repos\ServiceStation.API\ServiceStation.WebApp\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\Vasily Dubogriy\source\repos\ServiceStation.API\ServiceStation.WebApp\obj\Debug\net5.0\ServiceStation.WebApp.RazorTargetAssemblyInfo.cache
+C:\Users\Vasily Dubogriy\source\repos\ServiceStation.API\ServiceStation.WebApp\obj\Debug\net5.0\ServiceStation.WebApp.RazorTargetAssemblyInfo.cs
+C:\Users\Vasily Dubogriy\source\repos\ServiceStation.API\ServiceStation.WebApp\obj\Debug\net5.0\ServiceStation.WebApp.Views.pdb
+C:\Users\Vasily Dubogriy\source\repos\ServiceStation.API\ServiceStation.WebApp\obj\Debug\net5.0\scopedcss\bundle\ServiceStation.WebApp.styles.css
+C:\Users\Vasily Dubogriy\source\repos\ServiceStation.API\ServiceStation.WebApp\obj\Debug\net5.0\staticwebassets\ServiceStation.WebApp.StaticWebAssets.Manifest.cache
+C:\Users\Vasily Dubogriy\source\repos\ServiceStation.API\ServiceStation.WebApp\obj\Debug\net5.0\staticwebassets\ServiceStation.WebApp.StaticWebAssets.Pack.cache
+C:\Users\Vasily Dubogriy\source\repos\ServiceStation.API\ServiceStation.WebApp\obj\Debug\net5.0\staticwebassets\msbuild.ServiceStation.WebApp.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Vasily Dubogriy\source\repos\ServiceStation.API\ServiceStation.WebApp\obj\Debug\net5.0\staticwebassets\msbuild.build.ServiceStation.WebApp.props
+C:\Users\Vasily Dubogriy\source\repos\ServiceStation.API\ServiceStation.WebApp\obj\Debug\net5.0\staticwebassets\msbuild.buildMultiTargeting.ServiceStation.WebApp.props
+C:\Users\Vasily Dubogriy\source\repos\ServiceStation.API\ServiceStation.WebApp\obj\Debug\net5.0\staticwebassets\msbuild.buildTransitive.ServiceStation.WebApp.props
+C:\Users\Vasily Dubogriy\source\repos\ServiceStation.API\ServiceStation.WebApp\obj\Debug\net5.0\ServiceStation.WebApp.dll
+C:\Users\Vasily Dubogriy\source\repos\ServiceStation.API\ServiceStation.WebApp\obj\Debug\net5.0\refint\ServiceStation.WebApp.dll
+C:\Users\Vasily Dubogriy\source\repos\ServiceStation.API\ServiceStation.WebApp\obj\Debug\net5.0\ServiceStation.WebApp.pdb
+C:\Users\Vasily Dubogriy\source\repos\ServiceStation.API\ServiceStation.WebApp\obj\Debug\net5.0\ServiceStation.WebApp.genruntimeconfig.cache
+C:\Users\Vasily Dubogriy\source\repos\ServiceStation.API\ServiceStation.WebApp\obj\Debug\net5.0\ref\ServiceStation.WebApp.dll
+C:\Users\Vasily Dubogriy\source\repos\ServiceStation.API\ServiceStation.WebApp\obj\Debug\net5.0\ServiceS.8822D2D5.Up2Date
+C:\Users\Vasily Dubogriy\source\repos\ServiceStation.API\ServiceStation.WebApp\bin\Debug\net5.0\ServiceStation.DTO.dll
+C:\Users\Vasily Dubogriy\source\repos\ServiceStation.API\ServiceStation.WebApp\bin\Debug\net5.0\ServiceStation.DTO.pdb
+C:\Users\Vasily Dubogriy\source\repos\ServiceStation.API\ServiceStation.WebApp\obj\Debug\net5.0\ServiceStation.WebApp.csproj.AssemblyReference.cache
+C:\Users\Vasily Dubogriy\source\repos\ServiceStation.API\ServiceStation.WebApp\obj\Debug\net5.0\Razor\Views\Reports\Index.cshtml.g.cs
+C:\Users\Vasily Dubogriy\source\repos\ServiceStation.API\ServiceStation.WebApp\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\Vasily Dubogriy\source\repos\ServiceStation.API\ServiceStation.WebApp\bin\Debug\net5.0\RestSharp.dll
+C:\Users\Vasily Dubogriy\source\repos\ServiceStation.API\ServiceStation.WebApp\bin\Debug\net5.0\ServiceStation.ApiRequestProvider.dll
+C:\Users\Vasily Dubogriy\source\repos\ServiceStation.API\ServiceStation.WebApp\bin\Debug\net5.0\ServiceStation.ApiRequestProvider.pdb
+C:\Users\Vasily Dubogriy\source\repos\ServiceStation.API\ServiceStation.WebApp\obj\Debug\net5.0\Razor\Views\Login\Index.cshtml.g.cs
+C:\Users\Vasily Dubogriy\source\repos\ServiceStation.API\ServiceStation.WebApp\bin\Debug\net5.0\BCrypt.Net-Core.dll
+C:\Users\Vasily Dubogriy\source\repos\ServiceStation.API\ServiceStation.WebApp\bin\Debug\net5.0\ServiceStation.AuthExtensions.dll
+C:\Users\Vasily Dubogriy\source\repos\ServiceStation.API\ServiceStation.WebApp\bin\Debug\net5.0\ServiceStation.AuthExtensions.pdb
+C:\Users\Vasily Dubogriy\source\repos\ServiceStation.API\ServiceStation.WebApp\obj\Debug\net5.0\Razor\Views\Shared\_LoginDisplay.cshtml.g.cs
+C:\Users\Vasily Dubogriy\source\repos\ServiceStation.API\ServiceStation.WebApp\obj\Debug\net5.0\Razor\Views\ClientReport\Index.cshtml.g.cs
+C:\Users\vasil\Desktop\ServiceStation.API\ServiceStation.API\ServiceStation.WebApp\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\vasil\Desktop\ServiceStation.API\ServiceStation.API\ServiceStation.WebApp\bin\Debug\net5.0\appsettings.json
+C:\Users\vasil\Desktop\ServiceStation.API\ServiceStation.API\ServiceStation.WebApp\bin\Debug\net5.0\ServiceStation.WebApp.exe
+C:\Users\vasil\Desktop\ServiceStation.API\ServiceStation.API\ServiceStation.WebApp\bin\Debug\net5.0\ServiceStation.WebApp.deps.json
+C:\Users\vasil\Desktop\ServiceStation.API\ServiceStation.API\ServiceStation.WebApp\bin\Debug\net5.0\ServiceStation.WebApp.runtimeconfig.json
+C:\Users\vasil\Desktop\ServiceStation.API\ServiceStation.API\ServiceStation.WebApp\bin\Debug\net5.0\ServiceStation.WebApp.runtimeconfig.dev.json
+C:\Users\vasil\Desktop\ServiceStation.API\ServiceStation.API\ServiceStation.WebApp\bin\Debug\net5.0\ServiceStation.WebApp.dll
+C:\Users\vasil\Desktop\ServiceStation.API\ServiceStation.API\ServiceStation.WebApp\bin\Debug\net5.0\ServiceStation.WebApp.pdb
+C:\Users\vasil\Desktop\ServiceStation.API\ServiceStation.API\ServiceStation.WebApp\bin\Debug\net5.0\ServiceStation.WebApp.Views.dll
+C:\Users\vasil\Desktop\ServiceStation.API\ServiceStation.API\ServiceStation.WebApp\bin\Debug\net5.0\ServiceStation.WebApp.Views.pdb
+C:\Users\vasil\Desktop\ServiceStation.API\ServiceStation.API\ServiceStation.WebApp\bin\Debug\net5.0\BCrypt.Net-Core.dll
+C:\Users\vasil\Desktop\ServiceStation.API\ServiceStation.API\ServiceStation.WebApp\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\vasil\Desktop\ServiceStation.API\ServiceStation.API\ServiceStation.WebApp\bin\Debug\net5.0\RestSharp.dll
+C:\Users\vasil\Desktop\ServiceStation.API\ServiceStation.API\ServiceStation.WebApp\bin\Debug\net5.0\ServiceStation.ApiRequestProvider.dll
+C:\Users\vasil\Desktop\ServiceStation.API\ServiceStation.API\ServiceStation.WebApp\bin\Debug\net5.0\ServiceStation.AuthExtensions.dll
+C:\Users\vasil\Desktop\ServiceStation.API\ServiceStation.API\ServiceStation.WebApp\bin\Debug\net5.0\ServiceStation.DTO.dll
+C:\Users\vasil\Desktop\ServiceStation.API\ServiceStation.API\ServiceStation.WebApp\bin\Debug\net5.0\ServiceStation.ApiRequestProvider.pdb
+C:\Users\vasil\Desktop\ServiceStation.API\ServiceStation.API\ServiceStation.WebApp\bin\Debug\net5.0\ServiceStation.AuthExtensions.pdb
+C:\Users\vasil\Desktop\ServiceStation.API\ServiceStation.API\ServiceStation.WebApp\bin\Debug\net5.0\ServiceStation.DTO.pdb
+C:\Users\vasil\Desktop\ServiceStation.API\ServiceStation.API\ServiceStation.WebApp\obj\Debug\net5.0\ServiceStation.WebApp.csproj.AssemblyReference.cache
+C:\Users\vasil\Desktop\ServiceStation.API\ServiceStation.API\ServiceStation.WebApp\obj\Debug\net5.0\ServiceStation.WebApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vasil\Desktop\ServiceStation.API\ServiceStation.API\ServiceStation.WebApp\obj\Debug\net5.0\ServiceStation.WebApp.AssemblyInfoInputs.cache
+C:\Users\vasil\Desktop\ServiceStation.API\ServiceStation.API\ServiceStation.WebApp\obj\Debug\net5.0\ServiceStation.WebApp.AssemblyInfo.cs
+C:\Users\vasil\Desktop\ServiceStation.API\ServiceStation.API\ServiceStation.WebApp\obj\Debug\net5.0\ServiceStation.WebApp.csproj.CoreCompileInputs.cache
+C:\Users\vasil\Desktop\ServiceStation.API\ServiceStation.API\ServiceStation.WebApp\obj\Debug\net5.0\ServiceStation.WebApp.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\vasil\Desktop\ServiceStation.API\ServiceStation.API\ServiceStation.WebApp\obj\Debug\net5.0\ServiceStation.WebApp.RazorAssemblyInfo.cache
+C:\Users\vasil\Desktop\ServiceStation.API\ServiceStation.API\ServiceStation.WebApp\obj\Debug\net5.0\ServiceStation.WebApp.RazorAssemblyInfo.cs
+C:\Users\vasil\Desktop\ServiceStation.API\ServiceStation.API\ServiceStation.WebApp\obj\Debug\net5.0\scopedcss\bundle\ServiceStation.WebApp.styles.css
+C:\Users\vasil\Desktop\ServiceStation.API\ServiceStation.API\ServiceStation.WebApp\obj\Debug\net5.0\staticwebassets\ServiceStation.WebApp.StaticWebAssets.Manifest.cache
+C:\Users\vasil\Desktop\ServiceStation.API\ServiceStation.API\ServiceStation.WebApp\obj\Debug\net5.0\staticwebassets\ServiceStation.WebApp.StaticWebAssets.Pack.cache
+C:\Users\vasil\Desktop\ServiceStation.API\ServiceStation.API\ServiceStation.WebApp\obj\Debug\net5.0\staticwebassets\msbuild.ServiceStation.WebApp.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\vasil\Desktop\ServiceStation.API\ServiceStation.API\ServiceStation.WebApp\obj\Debug\net5.0\staticwebassets\msbuild.build.ServiceStation.WebApp.props
+C:\Users\vasil\Desktop\ServiceStation.API\ServiceStation.API\ServiceStation.WebApp\obj\Debug\net5.0\staticwebassets\msbuild.buildMultiTargeting.ServiceStation.WebApp.props
+C:\Users\vasil\Desktop\ServiceStation.API\ServiceStation.API\ServiceStation.WebApp\obj\Debug\net5.0\staticwebassets\msbuild.buildTransitive.ServiceStation.WebApp.props
+C:\Users\vasil\Desktop\ServiceStation.API\ServiceStation.API\ServiceStation.WebApp\obj\Debug\net5.0\ServiceStation.WebApp.TagHelpers.input.cache
+C:\Users\vasil\Desktop\ServiceStation.API\ServiceStation.API\ServiceStation.WebApp\obj\Debug\net5.0\ServiceStation.WebApp.TagHelpers.output.cache
+C:\Users\vasil\Desktop\ServiceStation.API\ServiceStation.API\ServiceStation.WebApp\obj\Debug\net5.0\ServiceStation.WebApp.RazorCoreGenerate.cache
+C:\Users\vasil\Desktop\ServiceStation.API\ServiceStation.API\ServiceStation.WebApp\obj\Debug\net5.0\Razor\Views\ClientReport\Index.cshtml.g.cs
+C:\Users\vasil\Desktop\ServiceStation.API\ServiceStation.API\ServiceStation.WebApp\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\vasil\Desktop\ServiceStation.API\ServiceStation.API\ServiceStation.WebApp\obj\Debug\net5.0\Razor\Views\Login\Index.cshtml.g.cs
+C:\Users\vasil\Desktop\ServiceStation.API\ServiceStation.API\ServiceStation.WebApp\obj\Debug\net5.0\Razor\Views\Reports\Index.cshtml.g.cs
+C:\Users\vasil\Desktop\ServiceStation.API\ServiceStation.API\ServiceStation.WebApp\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\vasil\Desktop\ServiceStation.API\ServiceStation.API\ServiceStation.WebApp\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\vasil\Desktop\ServiceStation.API\ServiceStation.API\ServiceStation.WebApp\obj\Debug\net5.0\Razor\Views\Shared\_LoginDisplay.cshtml.g.cs
+C:\Users\vasil\Desktop\ServiceStation.API\ServiceStation.API\ServiceStation.WebApp\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\vasil\Desktop\ServiceStation.API\ServiceStation.API\ServiceStation.WebApp\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\vasil\Desktop\ServiceStation.API\ServiceStation.API\ServiceStation.WebApp\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\vasil\Desktop\ServiceStation.API\ServiceStation.API\ServiceStation.WebApp\obj\Debug\net5.0\ServiceStation.WebApp.RazorTargetAssemblyInfo.cache
+C:\Users\vasil\Desktop\ServiceStation.API\ServiceStation.API\ServiceStation.WebApp\obj\Debug\net5.0\ServiceStation.WebApp.RazorTargetAssemblyInfo.cs
+C:\Users\vasil\Desktop\ServiceStation.API\ServiceStation.API\ServiceStation.WebApp\obj\Debug\net5.0\ServiceStation.WebApp.Views.pdb
+C:\Users\vasil\Desktop\ServiceStation.API\ServiceStation.API\ServiceStation.WebApp\obj\Debug\net5.0\ServiceStation.WebApp.csproj.CopyComplete
+C:\Users\vasil\Desktop\ServiceStation.API\ServiceStation.API\ServiceStation.WebApp\obj\Debug\net5.0\ServiceStation.WebApp.dll
+C:\Users\vasil\Desktop\ServiceStation.API\ServiceStation.API\ServiceStation.WebApp\obj\Debug\net5.0\refint\ServiceStation.WebApp.dll
+C:\Users\vasil\Desktop\ServiceStation.API\ServiceStation.API\ServiceStation.WebApp\obj\Debug\net5.0\ServiceStation.WebApp.pdb
+C:\Users\vasil\Desktop\ServiceStation.API\ServiceStation.API\ServiceStation.WebApp\obj\Debug\net5.0\ServiceStation.WebApp.genruntimeconfig.cache
+C:\Users\vasil\Desktop\ServiceStation.API\ServiceStation.API\ServiceStation.WebApp\obj\Debug\net5.0\ref\ServiceStation.WebApp.dll

@@ -1,0 +1,61 @@
+﻿<script src="https://code.jquery.com/jquery-3.7.1.js"></script>
+<link rel="stylesheet" href="~/lib/bootstrap/dist/css/bootstrap.min.css" />
+<link rel="stylesheet" href="~/css/servicestation.css" />
+
+<div class="login-container">
+    @Html.Label(null, null, new {@class= "error-message"})
+    <div class="label">@Html.Label("Пользователь:")</div>
+    <div class="textbox">@Html.TextBox("Username", null, new { @class="form-control", @id="username" })</div>
+    <div class="label">@Html.Label("Пароль:")</div>
+    <div class="textbox">@Html.Password("Password", null, new { @class = "form-control", @id="password" })</div>
+    <div class="btn-login"><button class="btn btn-primary btn-block mb-4" type="button" onclick="Login()">Войти</button></div>
+    @Html.ActionLink("Заказчик", "Index", "ClientReport")
+</div>
+<script>
+
+    var ls = localStorage;
+
+    $(document).ready(function () {       
+
+        var currentUser = JSON.parse(localStorage.getItem("user"));
+
+        if (currentUser != null) {
+            $.ajax({
+                url: ("/Login/ValidateUser"),
+                type: "GET",
+                contentType: "application/json; charset=utf-8",
+                dataType: "json",
+                headers: { "Authorization": currentUser.token },
+                success: function (user) {
+                    if (user != null && user.isAuthenticated) {
+                        window.location.href = "@Url.Action("Index", "Home")";
+                    }
+                },
+            });
+        }
+    });
+
+    function Login(){
+        var loginRequestModel = {
+            Email: $("#username").val(),
+            Password: $("#password").val()
+        };
+
+        $.ajax({
+            url: ("/Login/Login"),
+            type: "POST",
+            contentType: "application/json; charset=utf-8",
+            dataType: "json",
+            data: JSON.stringify(loginRequestModel),
+            success: function (user) {
+                if (user != null && user.isAuthenticated) {                    
+                    ls.setItem("user", JSON.stringify(user))
+                    window.location.href = "@Url.Action("Index", "Home")";
+                }
+                else {
+                    $('.error-message').text("Пользователь не найден");
+                }
+            },
+        });
+    }
+</script>

@@ -1,0 +1,24 @@
+C:\Users\Vasily Dubogriy\source\repos\ServiceStation.API\ServiceStation.AuthExtensions\bin\Debug\net5.0\ServiceStation.AuthExtensions.deps.json
+C:\Users\Vasily Dubogriy\source\repos\ServiceStation.API\ServiceStation.AuthExtensions\bin\Debug\net5.0\ServiceStation.AuthExtensions.dll
+C:\Users\Vasily Dubogriy\source\repos\ServiceStation.API\ServiceStation.AuthExtensions\bin\Debug\net5.0\ServiceStation.AuthExtensions.pdb
+C:\Users\Vasily Dubogriy\source\repos\ServiceStation.API\ServiceStation.AuthExtensions\obj\Debug\net5.0\ServiceStation.AuthExtensions.csproj.AssemblyReference.cache
+C:\Users\Vasily Dubogriy\source\repos\ServiceStation.API\ServiceStation.AuthExtensions\obj\Debug\net5.0\ServiceStation.AuthExtensions.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Vasily Dubogriy\source\repos\ServiceStation.API\ServiceStation.AuthExtensions\obj\Debug\net5.0\ServiceStation.AuthExtensions.AssemblyInfoInputs.cache
+C:\Users\Vasily Dubogriy\source\repos\ServiceStation.API\ServiceStation.AuthExtensions\obj\Debug\net5.0\ServiceStation.AuthExtensions.AssemblyInfo.cs
+C:\Users\Vasily Dubogriy\source\repos\ServiceStation.API\ServiceStation.AuthExtensions\obj\Debug\net5.0\ServiceStation.AuthExtensions.csproj.CoreCompileInputs.cache
+C:\Users\Vasily Dubogriy\source\repos\ServiceStation.API\ServiceStation.AuthExtensions\obj\Debug\net5.0\ServiceStation.AuthExtensions.dll
+C:\Users\Vasily Dubogriy\source\repos\ServiceStation.API\ServiceStation.AuthExtensions\obj\Debug\net5.0\refint\ServiceStation.AuthExtensions.dll
+C:\Users\Vasily Dubogriy\source\repos\ServiceStation.API\ServiceStation.AuthExtensions\obj\Debug\net5.0\ServiceStation.AuthExtensions.pdb
+C:\Users\Vasily Dubogriy\source\repos\ServiceStation.API\ServiceStation.AuthExtensions\obj\Debug\net5.0\ref\ServiceStation.AuthExtensions.dll
+C:\Users\vasil\Desktop\ServiceStation.API\ServiceStation.API\ServiceStation.AuthExtensions\bin\Debug\net5.0\ServiceStation.AuthExtensions.deps.json
+C:\Users\vasil\Desktop\ServiceStation.API\ServiceStation.API\ServiceStation.AuthExtensions\bin\Debug\net5.0\ServiceStation.AuthExtensions.dll
+C:\Users\vasil\Desktop\ServiceStation.API\ServiceStation.API\ServiceStation.AuthExtensions\bin\Debug\net5.0\ServiceStation.AuthExtensions.pdb
+C:\Users\vasil\Desktop\ServiceStation.API\ServiceStation.API\ServiceStation.AuthExtensions\obj\Debug\net5.0\ServiceStation.AuthExtensions.csproj.AssemblyReference.cache
+C:\Users\vasil\Desktop\ServiceStation.API\ServiceStation.API\ServiceStation.AuthExtensions\obj\Debug\net5.0\ServiceStation.AuthExtensions.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vasil\Desktop\ServiceStation.API\ServiceStation.API\ServiceStation.AuthExtensions\obj\Debug\net5.0\ServiceStation.AuthExtensions.AssemblyInfoInputs.cache
+C:\Users\vasil\Desktop\ServiceStation.API\ServiceStation.API\ServiceStation.AuthExtensions\obj\Debug\net5.0\ServiceStation.AuthExtensions.AssemblyInfo.cs
+C:\Users\vasil\Desktop\ServiceStation.API\ServiceStation.API\ServiceStation.AuthExtensions\obj\Debug\net5.0\ServiceStation.AuthExtensions.csproj.CoreCompileInputs.cache
+C:\Users\vasil\Desktop\ServiceStation.API\ServiceStation.API\ServiceStation.AuthExtensions\obj\Debug\net5.0\ServiceStation.AuthExtensions.dll
+C:\Users\vasil\Desktop\ServiceStation.API\ServiceStation.API\ServiceStation.AuthExtensions\obj\Debug\net5.0\refint\ServiceStation.AuthExtensions.dll
+C:\Users\vasil\Desktop\ServiceStation.API\ServiceStation.API\ServiceStation.AuthExtensions\obj\Debug\net5.0\ServiceStation.AuthExtensions.pdb
+C:\Users\vasil\Desktop\ServiceStation.API\ServiceStation.API\ServiceStation.AuthExtensions\obj\Debug\net5.0\ref\ServiceStation.AuthExtensions.dll

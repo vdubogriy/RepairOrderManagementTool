@@ -1,0 +1,30 @@
+C:\Users\Vasily Dubogriy\source\repos\ServiceStation.API\ServiceStation.DTO\bin\Debug\net5.0\ServiceStation.DTO.deps.json
+C:\Users\Vasily Dubogriy\source\repos\ServiceStation.API\ServiceStation.DTO\bin\Debug\net5.0\ServiceStation.DTO.dll
+C:\Users\Vasily Dubogriy\source\repos\ServiceStation.API\ServiceStation.DTO\bin\Debug\net5.0\ServiceStation.DTO.pdb
+C:\Users\Vasily Dubogriy\source\repos\ServiceStation.API\ServiceStation.DTO\bin\Debug\net5.0\ServiceStation.AuthExtensions.dll
+C:\Users\Vasily Dubogriy\source\repos\ServiceStation.API\ServiceStation.DTO\bin\Debug\net5.0\ServiceStation.AuthExtensions.pdb
+C:\Users\Vasily Dubogriy\source\repos\ServiceStation.API\ServiceStation.DTO\obj\Debug\net5.0\ServiceStation.DTO.csproj.AssemblyReference.cache
+C:\Users\Vasily Dubogriy\source\repos\ServiceStation.API\ServiceStation.DTO\obj\Debug\net5.0\ServiceStation.DTO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Vasily Dubogriy\source\repos\ServiceStation.API\ServiceStation.DTO\obj\Debug\net5.0\ServiceStation.DTO.AssemblyInfoInputs.cache
+C:\Users\Vasily Dubogriy\source\repos\ServiceStation.API\ServiceStation.DTO\obj\Debug\net5.0\ServiceStation.DTO.AssemblyInfo.cs
+C:\Users\Vasily Dubogriy\source\repos\ServiceStation.API\ServiceStation.DTO\obj\Debug\net5.0\ServiceStation.DTO.csproj.CoreCompileInputs.cache
+C:\Users\Vasily Dubogriy\source\repos\ServiceStation.API\ServiceStation.DTO\obj\Debug\net5.0\ServiceS.FC54CD6E.Up2Date
+C:\Users\Vasily Dubogriy\source\repos\ServiceStation.API\ServiceStation.DTO\obj\Debug\net5.0\ServiceStation.DTO.dll
+C:\Users\Vasily Dubogriy\source\repos\ServiceStation.API\ServiceStation.DTO\obj\Debug\net5.0\refint\ServiceStation.DTO.dll
+C:\Users\Vasily Dubogriy\source\repos\ServiceStation.API\ServiceStation.DTO\obj\Debug\net5.0\ServiceStation.DTO.pdb
+C:\Users\Vasily Dubogriy\source\repos\ServiceStation.API\ServiceStation.DTO\obj\Debug\net5.0\ref\ServiceStation.DTO.dll
+C:\Users\vasil\Desktop\ServiceStation.API\ServiceStation.API\ServiceStation.DTO\bin\Debug\net5.0\ServiceStation.DTO.deps.json
+C:\Users\vasil\Desktop\ServiceStation.API\ServiceStation.API\ServiceStation.DTO\bin\Debug\net5.0\ServiceStation.DTO.dll
+C:\Users\vasil\Desktop\ServiceStation.API\ServiceStation.API\ServiceStation.DTO\bin\Debug\net5.0\ServiceStation.DTO.pdb
+C:\Users\vasil\Desktop\ServiceStation.API\ServiceStation.API\ServiceStation.DTO\bin\Debug\net5.0\ServiceStation.AuthExtensions.dll
+C:\Users\vasil\Desktop\ServiceStation.API\ServiceStation.API\ServiceStation.DTO\bin\Debug\net5.0\ServiceStation.AuthExtensions.pdb
+C:\Users\vasil\Desktop\ServiceStation.API\ServiceStation.API\ServiceStation.DTO\obj\Debug\net5.0\ServiceStation.DTO.csproj.AssemblyReference.cache
+C:\Users\vasil\Desktop\ServiceStation.API\ServiceStation.API\ServiceStation.DTO\obj\Debug\net5.0\ServiceStation.DTO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vasil\Desktop\ServiceStation.API\ServiceStation.API\ServiceStation.DTO\obj\Debug\net5.0\ServiceStation.DTO.AssemblyInfoInputs.cache
+C:\Users\vasil\Desktop\ServiceStation.API\ServiceStation.API\ServiceStation.DTO\obj\Debug\net5.0\ServiceStation.DTO.AssemblyInfo.cs
+C:\Users\vasil\Desktop\ServiceStation.API\ServiceStation.API\ServiceStation.DTO\obj\Debug\net5.0\ServiceStation.DTO.csproj.CoreCompileInputs.cache
+C:\Users\vasil\Desktop\ServiceStation.API\ServiceStation.API\ServiceStation.DTO\obj\Debug\net5.0\ServiceStation.DTO.csproj.CopyComplete
+C:\Users\vasil\Desktop\ServiceStation.API\ServiceStation.API\ServiceStation.DTO\obj\Debug\net5.0\ServiceStation.DTO.dll
+C:\Users\vasil\Desktop\ServiceStation.API\ServiceStation.API\ServiceStation.DTO\obj\Debug\net5.0\refint\ServiceStation.DTO.dll
+C:\Users\vasil\Desktop\ServiceStation.API\ServiceStation.API\ServiceStation.DTO\obj\Debug\net5.0\ServiceStation.DTO.pdb
+C:\Users\vasil\Desktop\ServiceStation.API\ServiceStation.API\ServiceStation.DTO\obj\Debug\net5.0\ref\ServiceStation.DTO.dll

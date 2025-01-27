@@ -1,0 +1,34 @@
+C:\Users\Vasily Dubogriy\source\repos\ServiceStation.API\ServiceStation.ApiRequestProvider\bin\Debug\net5.0\ServiceStation.ApiRequestProvider.deps.json
+C:\Users\Vasily Dubogriy\source\repos\ServiceStation.API\ServiceStation.ApiRequestProvider\bin\Debug\net5.0\ServiceStation.ApiRequestProvider.dll
+C:\Users\Vasily Dubogriy\source\repos\ServiceStation.API\ServiceStation.ApiRequestProvider\bin\Debug\net5.0\ServiceStation.ApiRequestProvider.pdb
+C:\Users\Vasily Dubogriy\source\repos\ServiceStation.API\ServiceStation.ApiRequestProvider\bin\Debug\net5.0\ServiceStation.DTO.dll
+C:\Users\Vasily Dubogriy\source\repos\ServiceStation.API\ServiceStation.ApiRequestProvider\bin\Debug\net5.0\ServiceStation.DTO.pdb
+C:\Users\Vasily Dubogriy\source\repos\ServiceStation.API\ServiceStation.ApiRequestProvider\obj\Debug\net5.0\ServiceStation.ApiRequestProvider.csproj.AssemblyReference.cache
+C:\Users\Vasily Dubogriy\source\repos\ServiceStation.API\ServiceStation.ApiRequestProvider\obj\Debug\net5.0\ServiceStation.ApiRequestProvider.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Vasily Dubogriy\source\repos\ServiceStation.API\ServiceStation.ApiRequestProvider\obj\Debug\net5.0\ServiceStation.ApiRequestProvider.AssemblyInfoInputs.cache
+C:\Users\Vasily Dubogriy\source\repos\ServiceStation.API\ServiceStation.ApiRequestProvider\obj\Debug\net5.0\ServiceStation.ApiRequestProvider.AssemblyInfo.cs
+C:\Users\Vasily Dubogriy\source\repos\ServiceStation.API\ServiceStation.ApiRequestProvider\obj\Debug\net5.0\ServiceStation.ApiRequestProvider.csproj.CoreCompileInputs.cache
+C:\Users\Vasily Dubogriy\source\repos\ServiceStation.API\ServiceStation.ApiRequestProvider\obj\Debug\net5.0\ServiceS.4F44A3EE.Up2Date
+C:\Users\Vasily Dubogriy\source\repos\ServiceStation.API\ServiceStation.ApiRequestProvider\obj\Debug\net5.0\ServiceStation.ApiRequestProvider.dll
+C:\Users\Vasily Dubogriy\source\repos\ServiceStation.API\ServiceStation.ApiRequestProvider\obj\Debug\net5.0\refint\ServiceStation.ApiRequestProvider.dll
+C:\Users\Vasily Dubogriy\source\repos\ServiceStation.API\ServiceStation.ApiRequestProvider\obj\Debug\net5.0\ServiceStation.ApiRequestProvider.pdb
+C:\Users\Vasily Dubogriy\source\repos\ServiceStation.API\ServiceStation.ApiRequestProvider\obj\Debug\net5.0\ref\ServiceStation.ApiRequestProvider.dll
+C:\Users\Vasily Dubogriy\source\repos\ServiceStation.API\ServiceStation.ApiRequestProvider\bin\Debug\net5.0\ServiceStation.AuthExtensions.dll
+C:\Users\Vasily Dubogriy\source\repos\ServiceStation.API\ServiceStation.ApiRequestProvider\bin\Debug\net5.0\ServiceStation.AuthExtensions.pdb
+C:\Users\vasil\Desktop\ServiceStation.API\ServiceStation.API\ServiceStation.ApiRequestProvider\bin\Debug\net5.0\ServiceStation.ApiRequestProvider.deps.json
+C:\Users\vasil\Desktop\ServiceStation.API\ServiceStation.API\ServiceStation.ApiRequestProvider\bin\Debug\net5.0\ServiceStation.ApiRequestProvider.dll
+C:\Users\vasil\Desktop\ServiceStation.API\ServiceStation.API\ServiceStation.ApiRequestProvider\bin\Debug\net5.0\ServiceStation.ApiRequestProvider.pdb
+C:\Users\vasil\Desktop\ServiceStation.API\ServiceStation.API\ServiceStation.ApiRequestProvider\bin\Debug\net5.0\ServiceStation.AuthExtensions.dll
+C:\Users\vasil\Desktop\ServiceStation.API\ServiceStation.API\ServiceStation.ApiRequestProvider\bin\Debug\net5.0\ServiceStation.DTO.dll
+C:\Users\vasil\Desktop\ServiceStation.API\ServiceStation.API\ServiceStation.ApiRequestProvider\bin\Debug\net5.0\ServiceStation.DTO.pdb
+C:\Users\vasil\Desktop\ServiceStation.API\ServiceStation.API\ServiceStation.ApiRequestProvider\bin\Debug\net5.0\ServiceStation.AuthExtensions.pdb
+C:\Users\vasil\Desktop\ServiceStation.API\ServiceStation.API\ServiceStation.ApiRequestProvider\obj\Debug\net5.0\ServiceStation.ApiRequestProvider.csproj.AssemblyReference.cache
+C:\Users\vasil\Desktop\ServiceStation.API\ServiceStation.API\ServiceStation.ApiRequestProvider\obj\Debug\net5.0\ServiceStation.ApiRequestProvider.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vasil\Desktop\ServiceStation.API\ServiceStation.API\ServiceStation.ApiRequestProvider\obj\Debug\net5.0\ServiceStation.ApiRequestProvider.AssemblyInfoInputs.cache
+C:\Users\vasil\Desktop\ServiceStation.API\ServiceStation.API\ServiceStation.ApiRequestProvider\obj\Debug\net5.0\ServiceStation.ApiRequestProvider.AssemblyInfo.cs
+C:\Users\vasil\Desktop\ServiceStation.API\ServiceStation.API\ServiceStation.ApiRequestProvider\obj\Debug\net5.0\ServiceStation.ApiRequestProvider.csproj.CoreCompileInputs.cache
+C:\Users\vasil\Desktop\ServiceStation.API\ServiceStation.API\ServiceStation.ApiRequestProvider\obj\Debug\net5.0\ServiceStation.ApiRequestProvider.csproj.CopyComplete
+C:\Users\vasil\Desktop\ServiceStation.API\ServiceStation.API\ServiceStation.ApiRequestProvider\obj\Debug\net5.0\ServiceStation.ApiRequestProvider.dll
+C:\Users\vasil\Desktop\ServiceStation.API\ServiceStation.API\ServiceStation.ApiRequestProvider\obj\Debug\net5.0\refint\ServiceStation.ApiRequestProvider.dll
+C:\Users\vasil\Desktop\ServiceStation.API\ServiceStation.API\ServiceStation.ApiRequestProvider\obj\Debug\net5.0\ServiceStation.ApiRequestProvider.pdb
+C:\Users\vasil\Desktop\ServiceStation.API\ServiceStation.API\ServiceStation.ApiRequestProvider\obj\Debug\net5.0\ref\ServiceStation.ApiRequestProvider.dll
